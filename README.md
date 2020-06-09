@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MikeGratsas_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=MikeGratsas_mslearn-tailspin-spacegame-web)
 [![Build Status](https://sharpimg.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://sharpimg.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
